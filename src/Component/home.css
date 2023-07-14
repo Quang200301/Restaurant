@@ -1,0 +1,7 @@
+.home__ex{
+    display: flex;
+}
+.img__home.img-thumbnail{
+    border-top-right-radius: 90px;
+    border-bottom-left-radius: 90px;
+}
